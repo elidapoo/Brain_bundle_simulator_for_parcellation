@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or its simulated data in your research, please cite the associated article below."
+title: "Brain Bundle Simulator for Parcellation"
+type: software
+authors:
+  - family-names: "Poo"
+    given-names: "Elida"
+license: MIT
+repository-code: "https://github.com/elidapoo/Brain_bundle_simulator_for_parcellation"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Poo"
+      given-names: "Elida"
+    - family-names: "Molina"
+      given-names: "Joaquín"
+    - family-names: "Mangin"
+      given-names: "Jean-François"
+    - family-names: "Hernández"
+      given-names: "Cecilia"
+    - family-names: "Guevara"
+      given-names: "Pamela"
+  title: "A simulator for the validation of tractography-based cortical surface parcellations"
+  journal: "Computers in Biology and Medicine"
+  volume: 196
+  year: 2025
+  doi: "10.1016/j.compbiomed.2025.110891"
